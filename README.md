@@ -1,4 +1,4 @@
-......# awesome-soc-analyst
+.......# awesome-soc-analyst
 
 We just collected useful resources for SOC analysts and SOC analyst candidates. 
 
